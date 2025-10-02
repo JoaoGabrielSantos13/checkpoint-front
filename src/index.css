@@ -1,1 +1,6 @@
 @import 'tailwindcss';
+
+@theme{
+    --eitheen-px: 18px;
+    --font-display: sans-serif;
+}
